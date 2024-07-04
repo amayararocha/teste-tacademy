@@ -1,10 +1,10 @@
-package Terra.Menu;
+package terra.menu;
 
-import Terra.Controller.ControleAlienigenas;
+import terra.controller.ControleAlienigenas;
 
 import java.util.Scanner;
 
-import static Terra.Util.Util.*;
+import static terra.util.Util.*;
 
 public class Menu {
     public static void main(String[] args) {

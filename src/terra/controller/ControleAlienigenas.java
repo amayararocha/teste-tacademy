@@ -1,7 +1,7 @@
-package Terra.Controller;
+package terra.controller;
 
-import Terra.Model.Alien;
-import Terra.Model.Especie;
+import terra.model.Alien;
+import terra.model.Especie;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Terra.Model;
+package terra.model;
 
 public class Alien {
 

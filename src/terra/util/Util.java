@@ -1,7 +1,7 @@
-package Terra.Util;
+package terra.util;
 
-import Terra.Controller.ControleAlienigenas;
-import Terra.Model.Alien;
+import terra.controller.ControleAlienigenas;
+import terra.model.Alien;
 
 import java.util.List;
 import java.util.Scanner;
